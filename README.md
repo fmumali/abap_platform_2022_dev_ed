@@ -1,2 +1,2 @@
-# abap_2022_01-sap_gw_odata_4
-SAP Gateway and OData 4th Edition
+# abap_2022_01
+SAP ABAP Platform 2022 SP01
