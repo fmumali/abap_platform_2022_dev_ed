@@ -1,0 +1,729 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"City",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Postal Code",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Street",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"Building",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Country",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Address Type",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Company Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Web Address",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"E-Mail Address",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
+    "ENTRY":"Phone No.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"012",
+    "LANG":"E",
+    "ENTRY":"Fax Number",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"013",
+    "LANG":"E",
+    "ENTRY":"Legal Form",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"014",
+    "LANG":"E",
+    "ENTRY":"Currency",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"015",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. Role",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"016",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"017",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"018",
+    "LANG":"E",
+    "ENTRY":"Product ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"019",
+    "LANG":"E",
+    "ENTRY":"Prod. Type Code",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"020",
+    "LANG":"E",
+    "ENTRY":"Prod. Cat.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"021",
+    "LANG":"E",
+    "ENTRY":"Product Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"022",
+    "LANG":"E",
+    "ENTRY":"Language",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"023",
+    "LANG":"E",
+    "ENTRY":"Prod.Descrip.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"024",
+    "LANG":"E",
+    "ENTRY":"Language",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"025",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"026",
+    "LANG":"E",
+    "ENTRY":"Company Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"027",
+    "LANG":"E",
+    "ENTRY":"Prod. Tax Code",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"028",
+    "LANG":"E",
+    "ENTRY":"Qty. Unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"029",
+    "LANG":"E",
+    "ENTRY":"Wt. Measure",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"030",
+    "LANG":"E",
+    "ENTRY":"Qty. Unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"031",
+    "LANG":"E",
+    "ENTRY":"Currency",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"032",
+    "LANG":"E",
+    "ENTRY":"Unit Price",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"033",
+    "LANG":"E",
+    "ENTRY":"Dimensions",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"034",
+    "LANG":"E",
+    "ENTRY":"Dimensions",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"035",
+    "LANG":"E",
+    "ENTRY":"Dimensions",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"036",
+    "LANG":"E",
+    "ENTRY":"Dim. Unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"037",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"038",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"039",
+    "LANG":"E",
+    "ENTRY":"Sa. Ord. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"040",
+    "LANG":"E",
+    "ENTRY":"Description",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"041",
+    "LANG":"E",
+    "ENTRY":"Language",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"042",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"043",
+    "LANG":"E",
+    "ENTRY":"Company Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"044",
+    "LANG":"E",
+    "ENTRY":"Currency",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"045",
+    "LANG":"E",
+    "ENTRY":"Gross Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"046",
+    "LANG":"E",
+    "ENTRY":"Net Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"047",
+    "LANG":"E",
+    "ENTRY":"Tax Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"048",
+    "LANG":"E",
+    "ENTRY":"PO Lifecycle",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"049",
+    "LANG":"E",
+    "ENTRY":"Lifecycle Descript.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"050",
+    "LANG":"E",
+    "ENTRY":"PO Confirmation",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"051",
+    "LANG":"E",
+    "ENTRY":"Billing Description",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"052",
+    "LANG":"E",
+    "ENTRY":"PO Ordering",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"053",
+    "LANG":"E",
+    "ENTRY":"Delivery Description",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"054",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"055",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"056",
+    "LANG":"E",
+    "ENTRY":"Sa. Ord. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"057",
+    "LANG":"E",
+    "ENTRY":"PO Item Pos",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"058",
+    "LANG":"E",
+    "ENTRY":"Product ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"059",
+    "LANG":"E",
+    "ENTRY":"Description",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"060",
+    "LANG":"E",
+    "ENTRY":"Language",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"061",
+    "LANG":"E",
+    "ENTRY":"Currency",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"062",
+    "LANG":"E",
+    "ENTRY":"Gross Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"063",
+    "LANG":"E",
+    "ENTRY":"Net Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"064",
+    "LANG":"E",
+    "ENTRY":"Tax Amt.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"065",
+    "LANG":"E",
+    "ENTRY":"Time Stamp",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"066",
+    "LANG":"E",
+    "ENTRY":"Quantity",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"067",
+    "LANG":"E",
+    "ENTRY":"Qty. Unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"068",
+    "LANG":"E",
+    "ENTRY":"Contact GUID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"069",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"070",
+    "LANG":"E",
+    "ENTRY":"Title",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"071",
+    "LANG":"E",
+    "ENTRY":"First Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"072",
+    "LANG":"E",
+    "ENTRY":"Middle Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"073",
+    "LANG":"E",
+    "ENTRY":"Last Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"074",
+    "LANG":"E",
+    "ENTRY":"Nickname",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"075",
+    "LANG":"E",
+    "ENTRY":"Initials",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"076",
+    "LANG":"E",
+    "ENTRY":"Sex",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"077",
+    "LANG":"E",
+    "ENTRY":"Phone No.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"078",
+    "LANG":"E",
+    "ENTRY":"Fax Number",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"079",
+    "LANG":"E",
+    "ENTRY":"E-Mail Address",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"080",
+    "LANG":"E",
+    "ENTRY":"Language Key",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"081",
+    "LANG":"E",
+    "ENTRY":"Date of Birth",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"082",
+    "LANG":"E",
+    "ENTRY":"Sex",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"083",
+    "LANG":"E",
+    "ENTRY":"Short Descript.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"084",
+    "LANG":"E",
+    "ENTRY":"Country",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"085",
+    "LANG":"E",
+    "ENTRY":"Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"086",
+    "LANG":"E",
+    "ENTRY":"Nationality",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"087",
+    "LANG":"E",
+    "ENTRY":"Address Type",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"088",
+    "LANG":"E",
+    "ENTRY":"Short Descript.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"089",
+    "LANG":"E",
+    "ENTRY":"Prod. Cat.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"090",
+    "LANG":"E",
+    "ENTRY":"Currency",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"091",
+    "LANG":"E",
+    "ENTRY":"Long Text",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"092",
+    "LANG":"E",
+    "ENTRY":"Int. meas. unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"093",
+    "LANG":"E",
+    "ENTRY":"Unit text",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"094",
+    "LANG":"E",
+    "ENTRY":"Int. meas. unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"095",
+    "LANG":"E",
+    "ENTRY":"Unit text",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"096",
+    "LANG":"E",
+    "ENTRY":"Int. meas. unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"097",
+    "LANG":"E",
+    "ENTRY":"Unit text",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"098",
+    "LANG":"E",
+    "ENTRY":"Prod. Type Code",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"099",
+    "LANG":"E",
+    "ENTRY":"Short Descript.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"100",
+    "LANG":"E",
+    "ENTRY":"Bus. Part. Role",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"101",
+    "LANG":"E",
+    "ENTRY":"Short Descript.",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"102",
+    "LANG":"E",
+    "ENTRY":"Language",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"103",
+    "LANG":"E",
+    "ENTRY":"Name",
+    "LENGTH":132
+   }
+  ]
+ }
+]
