@@ -1,0 +1,60 @@
+[
+ {
+  "table":"/IWBEP/I_MGW_OHD",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZEXAMPLE1_MDL",
+    "VERSION":1,
+    "CLASS_NAME":"ZCL_ZEXAMPLE1_MPC_EXT",
+    "CREATED_BY":"FMUMALI",
+    "CHANGED_BY":"",
+    "CREATED_TIMESTMP":"+020250113233757",
+    "CHANGED_TIMESTMP":"0",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"/IWBEP/I_MGW_OHT",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZEXAMPLE1_MDL",
+    "VERSION":1,
+    "LANGUAGE":"E",
+    "DESCRIPTION":"My first Example Project"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IWMO",
+    "OBJ_NAME":"ZEXAMPLE1_MDL                   0001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"FMUMALI",
+    "SRCDEP":"",
+    "DEVCLASS":"ZCHAP6_SERV_DEV",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-01-14",
+    "CHECK_DATE":"2025-01-14",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
