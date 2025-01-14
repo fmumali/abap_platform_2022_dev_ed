@@ -1,7 +1,7 @@
   method /IWBEP/IF_MGW_APPL_SRV_RUNTIME~DELETE_ENTITY.
 *&----------------------------------------------------------------------------------------------*
 *&  Include           /IWBEP/DPC_TEMP_DEL_ENTITY_BASE
-*&* This class has been generated on 14.01.2025 00:37:51 in client 001
+*&* This class has been generated on 14.01.2025 05:43:14 in client 001
 *&*
 *&*       WARNING--> NEVER MODIFY THIS CLASS <--WARNING
 *&*   If you want to change the DPC implementation, use the
@@ -19,6 +19,20 @@ CASE lv_entityset_name.
       when 'ProductSet'.
 *     Call the entity set generated method
      productset_delete_entity(
+          EXPORTING iv_entity_name     = iv_entity_name
+                    iv_entity_set_name = iv_entity_set_name
+                    iv_source_name     = iv_source_name
+                    it_key_tab         = it_key_tab
+                    it_navigation_path = it_navigation_path
+                    io_tech_request_context = io_tech_request_context
+     ).
+
+*-------------------------------------------------------------------------*
+*             EntitySet -  SupplierSet
+*-------------------------------------------------------------------------*
+      when 'SupplierSet'.
+*     Call the entity set generated method
+     supplierset_delete_entity(
           EXPORTING iv_entity_name     = iv_entity_name
                     iv_entity_set_name = iv_entity_set_name
                     iv_source_name     = iv_source_name

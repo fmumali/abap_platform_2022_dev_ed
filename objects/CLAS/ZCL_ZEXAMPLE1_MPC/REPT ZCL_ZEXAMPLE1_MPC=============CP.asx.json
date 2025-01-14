@@ -1,0 +1,50 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Product Identifier",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"002",
+    "LANG":"E",
+    "ENTRY":"Product Category",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"003",
+    "LANG":"E",
+    "ENTRY":"Product Name",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"004",
+    "LANG":"E",
+    "ENTRY":"Supplier ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"005",
+    "LANG":"E",
+    "ENTRY":"Supplier ID",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"006",
+    "LANG":"E",
+    "ENTRY":"Supplier Name",
+    "LENGTH":132
+   }
+  ]
+ }
+]

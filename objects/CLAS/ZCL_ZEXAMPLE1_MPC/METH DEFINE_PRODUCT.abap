@@ -26,6 +26,7 @@ lo_entity_type = model->create_entity_type( iv_entity_type_name = 'Product' iv_d
 ***********************************************************************************************************************************
 
 lo_property = lo_entity_type->create_property( iv_property_name = 'ProductID' iv_abap_fieldname = 'PRODUCTID' ). "#EC NOTEXT
+lo_property->set_label_from_text_element( iv_text_element_symbol = '001' iv_text_element_container = gc_incl_name ).  "#EC NOTEXT
 lo_property->set_is_key( ).
 lo_property->set_type_edm_string( ).
 lo_property->set_maxlength( iv_max_length = 10 ). "#EC NOTEXT
@@ -39,6 +40,7 @@ lo_property->/iwbep/if_mgw_odata_annotatabl~create_annotation( 'sap' )->add(
         iv_key      = 'unicode'
         iv_value    = 'false' ).
 lo_property = lo_entity_type->create_property( iv_property_name = 'Category' iv_abap_fieldname = 'CATEGORY' ). "#EC NOTEXT
+lo_property->set_label_from_text_element( iv_text_element_symbol = '002' iv_text_element_container = gc_incl_name ).  "#EC NOTEXT
 lo_property->set_is_key( ).
 lo_property->set_type_edm_string( ).
 lo_property->set_maxlength( iv_max_length = 40 ). "#EC NOTEXT
@@ -52,8 +54,22 @@ lo_property->/iwbep/if_mgw_odata_annotatabl~create_annotation( 'sap' )->add(
         iv_key      = 'unicode'
         iv_value    = 'false' ).
 lo_property = lo_entity_type->create_property( iv_property_name = 'Name' iv_abap_fieldname = 'NAME' ). "#EC NOTEXT
+lo_property->set_label_from_text_element( iv_text_element_symbol = '003' iv_text_element_container = gc_incl_name ).  "#EC NOTEXT
 lo_property->set_type_edm_string( ).
 lo_property->set_maxlength( iv_max_length = 255 ). "#EC NOTEXT
+lo_property->set_creatable( abap_true ).
+lo_property->set_updatable( abap_true ).
+lo_property->set_sortable( abap_false ).
+lo_property->set_nullable( abap_false ).
+lo_property->set_filterable( abap_false ).
+lo_property->/iwbep/if_mgw_odata_annotatabl~create_annotation( 'sap' )->add(
+      EXPORTING
+        iv_key      = 'unicode'
+        iv_value    = 'false' ).
+lo_property = lo_entity_type->create_property( iv_property_name = 'SupplierID' iv_abap_fieldname = 'SUPPLIERID' ). "#EC NOTEXT
+lo_property->set_label_from_text_element( iv_text_element_symbol = '004' iv_text_element_container = gc_incl_name ).  "#EC NOTEXT
+lo_property->set_type_edm_string( ).
+lo_property->set_maxlength( iv_max_length = 10 ). "#EC NOTEXT
 lo_property->set_creatable( abap_true ).
 lo_property->set_updatable( abap_true ).
 lo_property->set_sortable( abap_false ).
