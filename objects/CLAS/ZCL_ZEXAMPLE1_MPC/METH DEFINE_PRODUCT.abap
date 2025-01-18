@@ -32,7 +32,7 @@ lo_property->set_type_edm_string( ).
 lo_property->set_maxlength( iv_max_length = 10 ). "#EC NOTEXT
 lo_property->set_creatable( abap_true ).
 lo_property->set_updatable( abap_false ).
-lo_property->set_sortable( abap_false ).
+lo_property->set_sortable( abap_true ).
 lo_property->set_nullable( abap_false ).
 lo_property->set_filterable( abap_true ).
 lo_property->/iwbep/if_mgw_odata_annotatabl~create_annotation( 'sap' )->add(

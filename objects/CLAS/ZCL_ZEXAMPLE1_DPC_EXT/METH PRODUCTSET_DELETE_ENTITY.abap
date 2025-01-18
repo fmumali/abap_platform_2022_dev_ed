@@ -8,7 +8,7 @@
 
     ls_product_id-product_id = ls_entity-productid.
 
-    CALL FUNCTION 'BAPI_EPM_PRODUCT_CREATE'
+    CALL FUNCTION 'BAPI_EPM_PRODUCT_DELETE'
       EXPORTING
         product_id = ls_product_id
 *       PERSIST_TO_DB  = ABAP_TRUE
