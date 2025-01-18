@@ -12,4 +12,5 @@ model->set_schema_namespace( 'ZEXAMPLE1_SRV' ).
 define_product( ).
 define_supplier( ).
 define_associations( ).
+define_actions( ).
   endmethod.

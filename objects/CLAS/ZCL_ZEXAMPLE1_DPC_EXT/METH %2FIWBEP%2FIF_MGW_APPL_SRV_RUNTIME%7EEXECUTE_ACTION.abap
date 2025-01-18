@@ -1,0 +1,5 @@
+  method /IWBEP/IF_MGW_APPL_SRV_RUNTIME~EXECUTE_ACTION.
+
+
+
+  endmethod.

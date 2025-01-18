@@ -40,6 +40,20 @@ ls_text_element-parent_artifact_name   = 'Product'.                            "
 ls_text_element-parent_artifact_type   = 'ETYP'.                                       "#EC NOTEXT
 ls_text_element-text_symbol            = '004'.              "#EC NOTEXT
 APPEND ls_text_element TO rt_text_elements.
+clear ls_text_element.
+ls_text_element-artifact_name          = 'WeightMeasure'.                 "#EC NOTEXT
+ls_text_element-artifact_type          = 'PROP'.                                       "#EC NOTEXT
+ls_text_element-parent_artifact_name   = 'Product'.                            "#EC NOTEXT
+ls_text_element-parent_artifact_type   = 'ETYP'.                                       "#EC NOTEXT
+ls_text_element-text_symbol            = '007'.              "#EC NOTEXT
+APPEND ls_text_element TO rt_text_elements.
+clear ls_text_element.
+ls_text_element-artifact_name          = 'WeightUnit'.                 "#EC NOTEXT
+ls_text_element-artifact_type          = 'PROP'.                                       "#EC NOTEXT
+ls_text_element-parent_artifact_name   = 'Product'.                            "#EC NOTEXT
+ls_text_element-parent_artifact_type   = 'ETYP'.                                       "#EC NOTEXT
+ls_text_element-text_symbol            = '008'.              "#EC NOTEXT
+APPEND ls_text_element TO rt_text_elements.
 
 
 clear ls_text_element.
@@ -55,5 +69,14 @@ ls_text_element-artifact_type          = 'PROP'.                                
 ls_text_element-parent_artifact_name   = 'Supplier'.                            "#EC NOTEXT
 ls_text_element-parent_artifact_type   = 'ETYP'.                                       "#EC NOTEXT
 ls_text_element-text_symbol            = '006'.              "#EC NOTEXT
+APPEND ls_text_element TO rt_text_elements.
+
+
+clear ls_text_element.
+ls_text_element-artifact_name          = 'Category'.                               "#EC NOTEXT
+ls_text_element-artifact_type          = 'FIPA'.                                                "#EC NOTEXT
+ls_text_element-parent_artifact_type   = 'FIMP'.                                                "#EC NOTEXT
+ls_text_element-parent_artifact_name   = 'DetermineHeaviestProduct'.                                      "#EC NOTEXT
+ls_text_element-text_symbol            = '009'.                            "#EC NOTEXT
 APPEND ls_text_element TO rt_text_elements.
   endmethod.

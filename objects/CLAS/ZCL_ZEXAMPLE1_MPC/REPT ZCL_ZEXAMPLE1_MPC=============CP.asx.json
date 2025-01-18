@@ -44,6 +44,27 @@
     "LANG":"E",
     "ENTRY":"Supplier Name",
     "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"007",
+    "LANG":"E",
+    "ENTRY":"Weight Measure",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"008",
+    "LANG":"E",
+    "ENTRY":"Weight Unit",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"009",
+    "LANG":"E",
+    "ENTRY":"Product Category",
+    "LENGTH":132
    }
   ]
  }

@@ -108,6 +108,16 @@
     "CLSNAME":"ZCL_ZEXAMPLE1_DPC_EXT",
     "REFCLSNAME":"ZCL_ZEXAMPLE1_DPC",
     "VERSION":1,
+    "MTDNAME":"/IWBEP/IF_MGW_APPL_SRV_RUNTIME~EXECUTE_ACTION",
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "ATTVALUE":"",
+    "EXPOSURE":2
+   },
+   {
+    "CLSNAME":"ZCL_ZEXAMPLE1_DPC_EXT",
+    "REFCLSNAME":"ZCL_ZEXAMPLE1_DPC",
+    "VERSION":1,
     "MTDNAME":"PRODUCTSET_CREATE_ENTITY",
     "MTDABSTRCT":"",
     "MTDFINAL":"",
@@ -257,6 +267,12 @@
     "METHODINDX":7,
     "METHODNAME":"PRODUCTSET_DELETE_ENTITY",
     "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZCL_ZEXAMPLE1_DPC_EXT",
+    "METHODINDX":8,
+    "METHODNAME":"/IWBEP/IF_MGW_APPL_SRV_RUNTIME~EXECUTE_ACTION",
+    "FLAGS":0
    }
   ]
  },
@@ -373,6 +389,17 @@
    },
    {
     "NAME":"ZCL_ZEXAMPLE1_DPC_EXT=========CM007",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZCL_ZEXAMPLE1_DPC_EXT=========CM008",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",

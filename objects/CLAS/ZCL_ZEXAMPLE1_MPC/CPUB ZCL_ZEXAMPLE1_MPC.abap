@@ -6,14 +6,9 @@ class ZCL_ZEXAMPLE1_MPC definition
 public section.
 
   types:
-  begin of TS_PRODUCT,
-     PRODUCTID type C length 10,
-     CATEGORY type C length 40,
-     NAME type C length 255,
-     SUPPLIERID type C length 10,
-  end of TS_PRODUCT .
-  types:
-TT_PRODUCT type standard table of TS_PRODUCT .
+    begin of TS_DETERMINEHEAVIESTPRODUCT,
+        CATEGORY type C length 40,
+    end of TS_DETERMINEHEAVIESTPRODUCT .
   types:
    begin of ts_text_element,
       artifact_name  type c length 40,       " technical name
@@ -24,6 +19,17 @@ TT_PRODUCT type standard table of TS_PRODUCT .
    end of ts_text_element .
   types:
          tt_text_elements type standard table of ts_text_element with key text_symbol .
+  types:
+  begin of TS_PRODUCT,
+     PRODUCTID type C length 10,
+     CATEGORY type C length 40,
+     NAME type C length 255,
+     SUPPLIERID type C length 10,
+     WEIGHTMEASURE type P length 7 decimals 3,
+     WEIGHTUNIT type C length 3,
+  end of TS_PRODUCT .
+  types:
+TT_PRODUCT type standard table of TS_PRODUCT .
   types:
   begin of TS_SUPPLIER,
      SUPPLIERID type C length 10,

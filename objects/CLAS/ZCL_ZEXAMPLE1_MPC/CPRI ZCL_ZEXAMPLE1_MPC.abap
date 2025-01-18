@@ -11,3 +11,6 @@ private section.
   methods DEFINE_ASSOCIATIONS
     raising
       /IWBEP/CX_MGW_MED_EXCEPTION .
+  methods DEFINE_ACTIONS
+    raising
+      /IWBEP/CX_MGW_MED_EXCEPTION .
