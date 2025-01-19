@@ -1,9 +1,9 @@
-class ZCL_ZEXAMPLE1_DPC_EXT definition
-  public
-  inheriting from ZCL_ZEXAMPLE1_DPC
-  create public .
+CLASS zcl_zexample1_dpc_ext DEFINITION
+  PUBLIC
+  INHERITING FROM zcl_zexample1_dpc
+  CREATE PUBLIC .
 
-public section.
+  PUBLIC SECTION.
 
-  methods /IWBEP/IF_MGW_APPL_SRV_RUNTIME~EXECUTE_ACTION
-    redefinition .
+    METHODS /iwbep/if_mgw_appl_srv_runtime~execute_action
+        REDEFINITION .
