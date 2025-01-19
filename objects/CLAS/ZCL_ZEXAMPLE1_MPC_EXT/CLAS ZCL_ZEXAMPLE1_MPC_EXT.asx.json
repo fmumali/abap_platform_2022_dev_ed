@@ -101,6 +101,22 @@
   ]
  },
  {
+  "table":"SEOREDEF",
+  "data":
+  [
+   {
+    "CLSNAME":"ZCL_ZEXAMPLE1_MPC_EXT",
+    "REFCLSNAME":"ZCL_ZEXAMPLE1_MPC",
+    "VERSION":1,
+    "MTDNAME":"DEFINE",
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "ATTVALUE":"",
+    "EXPOSURE":2
+   }
+  ]
+ },
+ {
   "table":"TADIR",
   "data":
   [
@@ -138,6 +154,12 @@
     "CLASSNAME":"ZCL_ZEXAMPLE1_MPC_EXT",
     "METHODINDX":0,
     "METHODNAME":" ",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZCL_ZEXAMPLE1_MPC_EXT",
+    "METHODINDX":1,
+    "METHODNAME":"DEFINE",
     "FLAGS":0
    }
   ]
@@ -187,7 +209,19 @@
     "UCCHECK":"X"
    },
    {
+    "NAME":"ZCL_ZEXAMPLE1_MPC_EXT=========CM001",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
     "NAME":"ZCL_ZEXAMPLE1_MPC_EXT=========CO",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
@@ -199,6 +233,7 @@
    {
     "NAME":"ZCL_ZEXAMPLE1_MPC_EXT=========CP",
     "EDTX":"X",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
@@ -219,6 +254,7 @@
    },
    {
     "NAME":"ZCL_ZEXAMPLE1_MPC_EXT=========CU",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",

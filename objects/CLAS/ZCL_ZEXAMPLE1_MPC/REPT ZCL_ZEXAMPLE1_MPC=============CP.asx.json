@@ -63,6 +63,20 @@
     "ID":"I",
     "KEY":"009",
     "LANG":"E",
+    "ENTRY":"Picture URI",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"010",
+    "LANG":"E",
+    "ENTRY":"Picture MIME Type",
+    "LENGTH":132
+   },
+   {
+    "ID":"I",
+    "KEY":"011",
+    "LANG":"E",
     "ENTRY":"Product Category",
     "LENGTH":132
    }

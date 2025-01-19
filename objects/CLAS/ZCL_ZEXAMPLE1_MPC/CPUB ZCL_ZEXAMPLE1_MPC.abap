@@ -27,6 +27,8 @@ public section.
      SUPPLIERID type C length 10,
      WEIGHTMEASURE type P length 7 decimals 3,
      WEIGHTUNIT type C length 3,
+     PICTUREURI type C length 255,
+     PICTUREMIMETYPE type C length 255,
   end of TS_PRODUCT .
   types:
 TT_PRODUCT type standard table of TS_PRODUCT .
